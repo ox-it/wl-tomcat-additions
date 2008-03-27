@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><project>
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <artifactId>master</artifactId>
+    <groupId>org.sakaiproject</groupId>
+    <version>M2</version>
+  </parent>
+  <groupId>uk.ac.ox.oucs</groupId>
+  <artifactId>tomcat-additions</artifactId>
+  <name>tomcat-additions</name>
+  <version>1.2</version>
+  <packaging>pom</packaging>
+  <properties>
+    <deploy.target>shared</deploy.target>
+  </properties>
+  <inceptionYear>2007</inceptionYear>
+  <organization>
+    <name>University of Oxford</name>
+    <url>http://www.oucs.ox.ac.uk/</url>
+  </organization>
+  <dependencies>
+    <dependency>
+      <groupId>mysql</groupId>
+      <artifactId>mysql-connector-java</artifactId>
+      <version>5.0.5</version>
+    </dependency>
+  </dependencies>
+</project>
