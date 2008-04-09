@@ -11,7 +11,7 @@
   <version>1.2</version>
   <packaging>pom</packaging>
   <properties>
-    <deploy.target>shared</deploy.target>
+    <deploy.target>common</deploy.target>
   </properties>
   <inceptionYear>2007</inceptionYear>
   <organization>
