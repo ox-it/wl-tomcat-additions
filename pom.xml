@@ -11,9 +11,9 @@
   <version>1.3-SNAPSHOT</version>
   <packaging>pom</packaging>
   <scm>
-    <developerConnection>scm:svn:https://svn.oucs.ox.ac.uk/projects/vle/sakai/tomcat-additions</developerConnection>
-    <connection>scm:svn:https://svn.oucs.ox.ac.uk/projects/vle/sakai/tomcat-additions</connection>
-    <url>https://svn.oucs.ox.ac.uk/projects/vle/sakai/tomcat-additions</url>
+    <developerConnection>scm:svn:https://svn.oucs.ox.ac.uk/projects/vle/sakai/tomcat-additions/trunk</developerConnection>
+    <connection>scm:svn:https://svn.oucs.ox.ac.uk/projects/vle/sakai/tomcat-additions/trunk</connection>
+    <url>https://svn.oucs.ox.ac.uk/projects/vle/sakai/tomcat-additions/trunk</url>
   </scm>
   <properties>
     <deploy.target>common</deploy.target>
