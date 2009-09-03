@@ -3,13 +3,13 @@
   <groupId>uk.ac.ox.oucs</groupId>
   <artifactId>tomcat-additions</artifactId>
   <name>tomcat-additions</name>
-  <version>1.4</version>
+  <version>1.5-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <scm>
-    <developerConnection>scm:svn:https://svn.oucs.ox.ac.uk/projects/vle/sakai/tomcat-additions/tags/tomcat-additions-1.4</developerConnection>
-    <connection>scm:svn:https://svn.oucs.ox.ac.uk/projects/vle/sakai/tomcat-additions/tags/tomcat-additions-1.4</connection>
-    <url>https://svn.oucs.ox.ac.uk/projects/vle/sakai/tomcat-additions/tags/tomcat-additions-1.4</url>
+    <developerConnection>scm:svn:https://svn.oucs.ox.ac.uk/projects/vle/sakai/tomcat-additions/trunk</developerConnection>
+    <connection>scm:svn:https://svn.oucs.ox.ac.uk/projects/vle/sakai/tomcat-additions/trunk</connection>
+    <url>https://svn.oucs.ox.ac.uk/projects/vle/sakai/tomcat-additions/trunk</url>
   </scm>
   <distributionManagement>
     <repository>
