@@ -6,31 +6,6 @@
   <version>1.4-SNAPSHOT</version>
   <packaging>pom</packaging>
 
-  <repositories>
-    <repository>
-      <id>central</id>
-      <name>Maven Repository Switchboard</name>
-      <layout>default</layout>
-      <url>http://repo1.maven.org/maven2</url>
-      <snapshots>
-        <enabled>false</enabled>
-      </snapshots>
-    </repository>
-  </repositories>
-  <pluginRepositories>
-    <pluginRepository>
-      <id>central</id>
-      <name>Maven Plugin Repository</name>
-      <url>http://repo1.maven.org/maven2</url>
-      <layout>default</layout>
-      <snapshots>
-        <enabled>false</enabled>
-      </snapshots>
-      <releases>
-        <updatePolicy>never</updatePolicy>
-      </releases>
-    </pluginRepository>
-  </pluginRepositories>
   <scm>
     <developerConnection>scm:svn:https://svn.oucs.ox.ac.uk/projects/vle/sakai/tomcat-additions/trunk</developerConnection>
     <connection>scm:svn:https://svn.oucs.ox.ac.uk/projects/vle/sakai/tomcat-additions/trunk</connection>
