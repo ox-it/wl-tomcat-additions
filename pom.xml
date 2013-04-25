@@ -7,9 +7,9 @@
   <packaging>pom</packaging>
 
   <scm>
-    <developerConnection>scm:svn:https://svn.oucs.ox.ac.uk/projects/vle/sakai/tomcat-additions/trunk</developerConnection>
-    <connection>scm:svn:https://svn.oucs.ox.ac.uk/projects/vle/sakai/tomcat-additions/trunk</connection>
-    <url>https://svn.oucs.ox.ac.uk/projects/vle/sakai/tomcat-additions/trunk</url>
+    <developerConnection>scm:git:https://github.com/ox-it/wl-tomcat-additions.git</developerConnection>
+    <connection>scm:git:ssh://git@github.com/ox-it/wl-tomcat-additions.git</connection>
+    <url>https://github.com/ox-it/wl-tomcat-additions</url>
   </scm>
   <distributionManagement>
     <repository>
