@@ -3,7 +3,7 @@
   <groupId>uk.ac.ox.oucs</groupId>
   <artifactId>tomcat-additions</artifactId>
   <name>tomcat-additions</name>
-  <version>1.5-SNAPSHOT</version>
+  <version>1.5</version>
   <packaging>pom</packaging>
 
   <scm>
